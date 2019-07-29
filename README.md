@@ -11,6 +11,6 @@ The code is organized as collections of short tests, each demonstrating a variat
 - **Exception Testing** -- Examples of how to test for thrown exceptions.
 - **Extensions** -- Examples of how to add your own constraints.
 - **SetupAndTeardown** -- Examples of how lifecycle management works.
-- **Utilities** -- Examples of useful methods and attributes, including theories.
+- **Utilities** -- Examples of useful methods and attributes, including context, metadata, retries, timing, and theories.
 
 **Note:** Some of these tests *will* fail, because they are demonstrating how **NUnit** handles certain failure cases. These are all named clearly, and they are all in the **ExpectedToFail** category.
