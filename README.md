@@ -1,5 +1,5 @@
 # NUnit_Demonstration
-A collection of C# examples of how NUnit works.
+A collection of NUnit examples in C#.
 
 I created this project as an exercise a few years ago when I wanted to learn more about how the [**NUnit**](https://nunit.org/) unit testing package worked.  I cleaned it up a bit later so I could use it to do **NUnit** webinars for my team, and I've updated it to include some more recent **NUnit** features.
 
